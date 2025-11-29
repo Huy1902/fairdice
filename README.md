@@ -1,4 +1,9 @@
+# This is repo clone from submission of FairDICE: Fairness-Driven Offline Multi-Objective Reinforcement Learning
+### Woosung Kim, Jinho Lee, Jongmin Lee, Byung-Jun Lee
+
 # FairDICE: Fairness-Driven Offline Multi-Objective Reinforcement Learning
+
+
 
 ## Setup
   Use the offered Dockerfile for the setup and create conda environment using yml file.
